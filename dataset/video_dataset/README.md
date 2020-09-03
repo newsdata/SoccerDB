@@ -10,8 +10,13 @@
 ### end_time: The end time of the video segment.
 ### event_start_time: The start time of the event.
 ### event_end_time: The end time of the event.
-### cls_id: Category of events
+### cls_id: Category of events.
 ### highlight_cls: Category of highlight.
+
+
+ 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+ ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+ Background | Injured | Red/Yellow Card | Shot | Substitution | Free Kick | Corner | Saves | Penalty Kick | Foul | Goal |
 
 ## [train_seg_key.csv](https://github.com/newsdata/SoccerDB/blob/master/dataset/video_dataset/train_seg_key.csv)
 ## [val_seg_key.csv](https://github.com/newsdata/SoccerDB/blob/master/dataset/video_dataset/val_seg_key.csv)
