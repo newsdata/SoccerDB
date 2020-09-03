@@ -21,6 +21,6 @@
  Not highlight | Playback | Segments that are played back | Goal |
 
 ## [train_seg_key.csv](https://github.com/newsdata/SoccerDB/blob/master/dataset/video_dataset/train_seg_key.csv)
-### keys for train video segments.
+### Keys for train video segments.
 ## [val_seg_key.csv](https://github.com/newsdata/SoccerDB/blob/master/dataset/video_dataset/val_seg_key.csv)
-### keys for val video segments.
+### Keys for val video segments.
