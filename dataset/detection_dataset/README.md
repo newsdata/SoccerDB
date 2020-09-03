@@ -1,7 +1,7 @@
 # The SoccerDB detection dataset
 ## description:
+### label: class_id, center_x, center_y, width, height
 ### class: 0 player 1 ball 2 goal
-### label: center_x, center_y, width, height
 ## images from crawled:
 ### train keys: [crawled_train_keys.csv](https://github.com/newsdata/SoccerDB/blob/master/dataset/detection_dataset/crawled_train_keys.csv)
 ### val keys: [crawled_val_keys.csv](https://github.com/newsdata/SoccerDB/blob/master/dataset/detection_dataset/crawled_val_keys.csv)
