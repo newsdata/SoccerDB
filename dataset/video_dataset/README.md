@@ -32,5 +32,5 @@
 ### ids: class of bbox.
 ### score: confidence of bbox.
 
-  | offset | length | bboxes| ids | score |
+ _ | offset | length | bboxes| ids | score |
  ---- | ---- | ---- | ---- | ---- | ---- |
