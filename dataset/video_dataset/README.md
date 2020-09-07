@@ -32,5 +32,15 @@
 ### ids: class of bbox.
 ### score: confidence of bbox.
 
- _ | offset | length | bboxes| ids | score |
+ keys | state | type | shape | comment | Complete the keys |
  ---- | ---- | ---- | ---- | ---- | ---- |
+ offset | offset of frames in video | np.int16 |
+ ---- | ---- | ---- | ---- | ---- | ---- |
+ length | number of Effective bbox for each frame| np.int8 |
+ ---- | ---- | ---- | ---- | ---- | ---- |
+ bboxes | info of bboxes | np.int16 |
+ ---- | ---- | ---- | ---- | ---- | ---- |
+ ids | class of bboxes | np.int8 |
+ ---- | ---- | ---- | ---- | ---- | ---- |
+ score | score of bboxes | np.float32 |
+
