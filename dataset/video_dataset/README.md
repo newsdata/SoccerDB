@@ -31,3 +31,5 @@
 ### bboxes: info of bboxes. type: np.int16 shape (offset_shape, 32, 4)
 ### ids: class of bbox.
 ### score: confidence of bbox.
+
+  | offset | length | bboxes| ids | score |
