@@ -34,9 +34,9 @@
 
  keys | state | type | shape | complete the keys | comment |
  ---- | ---- | ---- | ----- | ----- | ---- |
- offset | offset of frames in video | np.int16 | 1~64 | ("%s_offset" % seg_key).encode() | _ |
- length | number of Effective bbox for each frame| np.int8 | 1~64 | ("%s_length" % seg_key).encode() | _ |
- bboxes | info of bboxes x1, y1, x2, y2 | np.int16 | offset_shape, 32, 4 | ("%s_bboxes" % seg_key).encode() | _ |
- ids | class of bboxes | np.int8 | offset_shape, 32 | ("%s_ids" % seg_key).encode() | _ |
- score | score of bboxes | np.float32 | offset_shape, 32 | ("%s_score" % seg_key).encode() | _ |
+ offset | <div style="width: 150pt">offset of frames in video</div> | np.int16 | 1~64 | ("%s_offset" % seg_key).encode() | _ |
+ length | <div style="width: 150pt">number of Effective bbox for each frame</div>| np.int8 | 1~64 | ("%s_length" % seg_key).encode() | _ |
+ bboxes | <div style="width: 150pt">info of bboxes x1, y1, x2, y2</div> | np.int16 | offset_shape, 32, 4 | ("%s_bboxes" % seg_key).encode() | _ |
+ ids | <div style="width: 150pt">class of bboxes</div> | np.int8 | offset_shape, 32 | ("%s_ids" % seg_key).encode() | _ |
+ score | <div style="width: 150pt">score of bboxes</div> | np.float32 | offset_shape, 32 | ("%s_score" % seg_key).encode() | _ |
 
