@@ -24,3 +24,10 @@
 ### Keys for train video segments.
 ## [val_seg_key.csv](https://github.com/newsdata/SoccerDB/blob/master/dataset/video_dataset/val_seg_key.csv)
 ### Keys for val video segments.
+## Bounding box lmdb
+### lmdb: https://pan.baidu.com/s/1KLdoLsJGtnKnWQE9QMX1ow code: d67n
+### offset: offset of frames in video. type: np.int16 shape: 1~64
+### length: number of Effective bbox for frame. type: np.int8 shape: 1~64
+### bboxes: info of bboxes. type: np.int16 shape (offset_shape, 32, 4)
+### ids: class of bbox.
+### score: confidence of bbox.
