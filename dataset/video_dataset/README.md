@@ -35,12 +35,8 @@
  keys | state | type | shape | comment | Complete the keys |
  ---- | ---- | ---- | ---- | ---- | ---- |
  offset | offset of frames in video | np.int16 | _ | _ | _ |
- ---- | ---- | ---- | ---- | ---- | ---- |
  length | number of Effective bbox for each frame| np.int8 | _ | _ | _ |
- ---- | ---- | ---- | ---- | ---- | ---- |
  bboxes | info of bboxes | np.int16 | _ | _ | _ |
- ---- | ---- | ---- | ---- | ---- | ---- |
  ids | class of bboxes | np.int8 | _ | _ | _ |
- ---- | ---- | ---- | ---- | ---- | ---- |
  score | score of bboxes | np.float32 | _ | _ | _ |
 
