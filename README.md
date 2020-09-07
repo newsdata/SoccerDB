@@ -16,6 +16,7 @@
   year={2019}
 }
 
+```
 ```BibTeX
 @misc{fan2020pyslowfast,
   author =       {Haoqi Fan and Yanghao Li and Bo Xiong and Wan-Yen Lo and
@@ -24,3 +25,4 @@
   howpublished = {\url{https://github.com/facebookresearch/slowfast}},
   year =         {2020}
 }
+```
