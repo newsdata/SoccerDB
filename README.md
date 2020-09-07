@@ -2,7 +2,6 @@
 
 ## Citation
 
-If you use this toolbox or benchmark in your research, please cite this project.
 
 ```
 @article{mmdetection,
@@ -15,4 +14,13 @@ If you use this toolbox or benchmark in your research, please cite this project.
              and Shi, Jianping and Ouyang, Wanli and Loy, Chen Change and Lin, Dahua},
   journal= {arXiv preprint arXiv:1906.07155},
   year={2019}
+}
+
+```BibTeX
+@misc{fan2020pyslowfast,
+  author =       {Haoqi Fan and Yanghao Li and Bo Xiong and Wan-Yen Lo and
+                  Christoph Feichtenhofer},
+  title =        {PySlowFast},
+  howpublished = {\url{https://github.com/facebookresearch/slowfast}},
+  year =         {2020}
 }
