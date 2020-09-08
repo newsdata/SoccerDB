@@ -25,12 +25,7 @@
 ## [val_seg_key.csv](https://github.com/newsdata/SoccerDB/blob/master/dataset/video_dataset/val_seg_key.csv)
 ### Keys for val video segments.
 ## Bounding box lmdb
-### lmdb: https://pan.baidu.com/s/1KLdoLsJGtnKnWQE9QMX1ow code: d67n
-### offset: offset of frames in video. type: np.int16 shape: 1~64
-### length: number of Effective bbox for frame. type: np.int8 shape: 1~64
-### bboxes: info of bboxes. type: np.int16 shape (offset_shape, 32, 4)
-### ids: class of bbox.
-### score: confidence of bbox.
+### lmdb: https://pan.baidu.com/s/16XLPY4f-cctG5b6d5-j8pg code: n2ga
 
  keys | state | type | shape | complete the keys | comment |
  ---- | ---- | ---- | ---- | ---- | ---- |
