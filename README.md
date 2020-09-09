@@ -1,4 +1,6 @@
 # SoccerDB: A Large-Scale Database for Comprehensive Video Understanding
+Data and codes of paper: "SoccerDB: A Large-Scale Database for Comprehensive Video Understanding", which is accepted in ACM MMSPORTS 2020
+[Arxiv Preprint](https://arxiv.org/pdf/1912.04465.pdf)
 
 ## Citation
 
