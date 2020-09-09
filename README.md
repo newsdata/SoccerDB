@@ -1,4 +1,4 @@
-# SoccerDB
+# SoccerDB: A Large-Scale Database for Comprehensive Video Understanding
 
 ## Citation
 
