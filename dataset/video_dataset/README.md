@@ -3,7 +3,7 @@
 ### The comparison table of SoccerDB to SoccerNet. The first column is the video name of SoccerDB. The second column is the video name of SoccerNet, and if it is null, it is the video that belongs to SoccerDB alone. 
 ### SoccerDB Videos:
 ### 1. Videos of SoccerNet: Application from [SoccerNet](https://soccer-net.org/)
-### 2. Videos of SoccerDB: fill the [form](https://github.com/newsdata/SoccerDB/raw/master/dataset/SoccerDB_agreement_form.doc) first (links provided after agreeing with the XHZY)
+### 2. Videos of SoccerDB: fill the [form](https://github.com/newsdata/SoccerDB/raw/master/dataset/SoccerDB_agreement_form.doc) and send it to cuikaixu@shuwen.com(links provided after agreeing with the [Xinhua Zhiyun Technology Co. LTD](https://www.xinhuazhiyun.com/) )
 ## [seg_info.csv](https://github.com/newsdata/SoccerDB/blob/master/dataset/video_dataset/seg_info.csv)
 ### The information table of the video segment.
 ### seg_id: Key for video segments.
