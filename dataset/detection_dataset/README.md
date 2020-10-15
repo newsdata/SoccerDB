@@ -13,5 +13,5 @@
 ### images: https://pan.baidu.com/s/11nb_TxC2QIV3b3UN73OR0g code: 98mm
 ### images info: [football_detection_video_images_info.csv](https://github.com/newsdata/SoccerDB/blob/master/dataset/detection_dataset/football_detection_video_images_info.csv)
 ### labels: https://pan.baidu.com/s/1P0jXwpXT-395Bs65c3aGLA code: s2sm
-### videos: fill the form first (links provided after agreeing with the XHZY)
+### videos: fill the [form](https://github.com/newsdata/SoccerDB/raw/master/dataset/SoccerDB_agreement_form.doc) first (links provided after agreeing with the XHZY)
 ### videos info: [football_detection_videos_info.csv](https://github.com/newsdata/SoccerDB/blob/master/dataset/detection_dataset/football_detection_videos_info.csv)
