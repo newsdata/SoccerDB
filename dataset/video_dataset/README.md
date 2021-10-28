@@ -27,7 +27,9 @@
 ## [val_seg_key.csv](https://github.com/newsdata/SoccerDB/blob/master/dataset/video_dataset/val_seg_key.csv)
 ### Keys for val video segments.
 ## Bounding box lmdb
-### lmdb: https://pan.baidu.com/s/16XLPY4f-cctG5b6d5-j8pg code: n2ga
+### lmdb: 
+### Baidu Drive: https://pan.baidu.com/s/16XLPY4f-cctG5b6d5-j8pg code: n2ga
+### Google Drive: https://drive.google.com/file/d/11y0G3cHxl5D4OGYVOe5yE405-zVIEpCZ/view?usp=sharing
 
  keys | state | type | shape | complete the keys | comment |
  ---- | ---- | ---- | ---- | ---- | ---- |
